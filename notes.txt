@@ -1,4 +1,3 @@
-Note taking for the summer school 2017.
 "Computing on Surfaces"
 
 ### Introduction
